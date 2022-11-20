@@ -10,7 +10,6 @@
       "finish": {
         "title": "Finish",
         "text": "finish/text.md",
-        "foreground": "finish/foreground.sh",
         "background": "finish/background.sh"
       }
     },
